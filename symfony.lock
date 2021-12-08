@@ -121,6 +121,15 @@
     "phpstan/phpdoc-parser": {
         "version": "1.2.0"
     },
+    "phpstan/phpstan": {
+        "version": "1.2.0"
+    },
+    "phpstan/phpstan-doctrine": {
+        "version": "1.0.2"
+    },
+    "phpstan/phpstan-symfony": {
+        "version": "1.0.3"
+    },
     "phpunit/php-code-coverage": {
         "version": "9.2.10"
     },
@@ -442,6 +451,9 @@
     "symfony/polyfill-php81": {
         "version": "v1.23.0"
     },
+    "symfony/polyfill-uuid": {
+        "version": "v1.23.0"
+    },
     "symfony/process": {
         "version": "v6.0.0"
     },
@@ -534,6 +546,9 @@
             "config/packages/twig.yaml",
             "templates/base.html.twig"
         ]
+    },
+    "symfony/uid": {
+        "version": "v6.0.0"
     },
     "symfony/validator": {
         "version": "6.0",
